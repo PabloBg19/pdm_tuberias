@@ -178,10 +178,8 @@ java -jar aleatorio.jar | java -jar ordenarnumeros.jar
 4. `ordenarnumeros.jar` lee los números, los ordena y los imprime
 
 **Ejemplo de resultado:**
-```
-Entrada (generada por aleatorio): 54 12 87 23 45 91 ...
-Salida (ordenada): 0 2 3 6 8 13 16 17 22 23 25 29 30 32 33 ...
-```
+
+ ![foto](captura.png)
 
 ## 📊 Diagrama de Flujo
 
